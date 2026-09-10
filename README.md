@@ -13,7 +13,7 @@ This kit sets up a personal AI business assistant on your laptop. Not a chatbot 
 - **Remembers your business** - your name, your customers, your biggest challenges
 - **Lives on your computer** - runs locally, not in a browser tab
 - **Controls your browser** - can open websites, fill forms, and do research for you
-- **Has <!-- skills-audit:total -->207<!-- /skills-audit:total --> specialist skills** - research, copywriting, sales emails, social content, competitor analysis, and more
+- **Has <!-- skills-audit:total -->208<!-- /skills-audit:total --> specialist skills** - research, copywriting, sales emails, social content, competitor analysis, and more
 - **Gets smarter over time** - every conversation builds on the last
 
 It is built on [Claude Code](https://claude.ai/claude-code) by Anthropic - configured specifically for your business.

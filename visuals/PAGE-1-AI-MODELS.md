@@ -37,7 +37,7 @@ AI (Artificial Intelligence) is software that can think, reason, write, and lear
 | Handles long documents | Can read and summarise 200-page documents |
 | Best for business tasks | Writing, research, analysis, strategy |
 | Claude Code | Runs on your computer and automates tasks |
-| <!-- skills-audit:total -->207<!-- /skills-audit:total --> specialist skills | Pre-trained on business, marketing, sales, and more |
+| <!-- skills-audit:total -->208<!-- /skills-audit:total --> specialist skills | Pre-trained on business, marketing, sales, and more |
 
 ---
 
@@ -56,7 +56,7 @@ AI (Artificial Intelligence) is software that can think, reason, write, and lear
 │          Remembers your business permanently                     │
 │          Controls your browser, files, and apps                  │
 │          Connects to Gmail, Calendar, CRM, and more              │
-│          <!-- skills-audit:total -->207<!-- /skills-audit:total --> specialist skills built in                           │
+│          <!-- skills-audit:total -->208<!-- /skills-audit:total --> specialist skills built in                           │
 │                                                                   │
 │   3. SERVER AGENTS (the advanced level - see Page 3)             │
 │      └── AI workers that run automatically 24/7                  │

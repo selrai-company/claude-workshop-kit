@@ -20,7 +20,7 @@ Result: Forgettable               Result: Emails people actually reply to
 
 ---
 
-## Your <!-- skills-audit:total -->207<!-- /skills-audit:total --> Installed Skills
+## Your <!-- skills-audit:total -->208<!-- /skills-audit:total --> Installed Skills
 
 Organised by what they do for your business:
 
@@ -171,7 +171,7 @@ You stay in control. AI does the work. You make the calls.
 ```
 TODAY (Workshop)
   ✅ Claude Code set up on your laptop
-  ✅ <!-- skills-audit:total -->207<!-- /skills-audit:total --> skills installed
+  ✅ <!-- skills-audit:total -->208<!-- /skills-audit:total --> skills installed
   ✅ Memory of your business saved
   ✅ Browser automation connected
   ✅ First real task done live
